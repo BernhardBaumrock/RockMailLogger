@@ -25,7 +25,10 @@ class RockMailLogger extends WireData implements Module {
    */
   public function LogMailSend($event) {
     $mail = $event->object;
-    $this->log($this->getDump($mail));
+    $this->log(print_r([
+      'sent' => $event->return,
+      'mail' => $this->getDump($mail),
+    ], 1));
   }
 
   /**
