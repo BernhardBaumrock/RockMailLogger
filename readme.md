@@ -1,5 +1,13 @@
 This module will log information about all mails that are sent wie WireMail to the PW logs
 
+## A message to Russian 🇷🇺 people
+
+If you currently live in Russia, please read [this message](https://github.com/Roave/SecurityAdvisories/blob/latest/ToRussianPeople.md).
+
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
+---
+
 ![img](https://i.imgur.com/R8WMrPx.png)
 
 From PW Weekly:
